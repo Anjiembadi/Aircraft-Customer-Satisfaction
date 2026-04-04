@@ -118,7 +118,7 @@ streamlit run app.py
 
 ### 🔹 Application Interface
 
-![UI](assets/screenshot.png)
+![UI](output.png)
 
 ---
 
