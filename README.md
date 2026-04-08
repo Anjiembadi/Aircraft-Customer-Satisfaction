@@ -6,7 +6,8 @@
 
 ##  Project Overview
 
-This project uses **Machine Learning** to analyze airline customer data and predict satisfaction levels.
+This project analyzes airline customer data and builds a classification model to predict satisfaction levels.
+
 
 Helps airlines improve:
 
@@ -69,6 +70,14 @@ Predict customer satisfaction using features like:
 * Precision
 * Recall
 * F1 Score
+
+---
+
+##  Results
+* Achieved **94%+ accuracy using Random Forest**  
+* Identified top features influencing satisfaction  
+
+---
 
 ---
 ##  Key Insights
